@@ -196,10 +196,10 @@
             "#E792C1"
         ],
         "TEXT_NORMAL": [
-            "#000000"
+            "#FBFBFB"
         ],
         "TEXT_PRIMARY": [
-            "#fbfbfb"
+            "#000000"
         ],
         "TEXT_SECONDARY": [
             "#e7c6c6"
