@@ -369,7 +369,7 @@
     "background": {
         "blur": 0.1,
         "url": "https://i.imgur.com/BItVruK.jpeg",
-        "OPACITY": 0
+        "OPACITY": 5
     },
     "plus": {
         "version": "0",
